@@ -39,7 +39,7 @@
 					<div class="wrap-input100 validate-input" data-validate="Şifre">
 						<asp:TextBox ID="sifre" CssClass="input100" runat="server" TextMode="Password"></asp:TextBox>
 						<span class="focus-input100"></span>
-						<span class="label-input100">Şifre deneme</span>
+						<span class="label-input100">Şifre</span>
 					</div>
 
 					<div class="flex-sb-m w-full p-t-3 p-b-32">
